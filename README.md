@@ -29,3 +29,13 @@ The kata ([taken from codereview.stackexchange](https://codereview.stackexchange
 3. Build a system that takes a list of items and returns a total
 4. Add the offer of buy one, get one free on apples
 5. Add the offer of three oranges for the price of two
+
+## bowling
+
+Calculate the score for bowling.
+
+The kata ([loosely taken from http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata]Uncle Bob) has the following conditions:
+1. The pins knocked down from sequential incomplete frames are summed
+2. A spare gives a frame a score of 10 plus a bonus of the next roll
+3. A strike gives a frame a score of 10 plus a bonus of the next two rolls
+4. A perfect game gives the score of 300
